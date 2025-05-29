@@ -1,0 +1,10 @@
+
+/*! Tailwind CSS v2.2.19 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom overrides (jika ada) */
+body {
+  font-family: 'Inter', sans-serif;
+}
